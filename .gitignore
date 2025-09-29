@@ -1,0 +1,94 @@
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.pyc
+*.pyo
+*.pyd
+*.out
+*.a
+*.lib
+
+# Backup and temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+*.orig
+*.log
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# CLion & JetBrains IDEs
+.idea/
+cmake-build-*/
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt.user
+*.iml
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# User-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+*.code-workspace
+
+# Crash reports
+*.dmp
+*.stackdump
+
+# Package managers
+node_modules/
+dist/
+bower_components/
+venv/
+env/
+.env
+.Python
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+*.rar
+*.7z
+
+# Others
+*.pid
+*.seed
+*.pid.lock
+*.lock
+
+# Ignore by name
+secret.*
+private.*
+credentials.*
+
+# Ignore test output
+test-output/
+coverage/
+*.gcda
+*.gcno
+*.gcov
