@@ -1,0 +1,5 @@
+Create a program, which will calculate the volume of cylinder.
+
+The user will enter radius and height, your program will calculate the volume as PI*R*R*h and print it.
+
+All the variables will have the float type.
